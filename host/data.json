@@ -1,16 +1,22 @@
 [
     {
-        "p_name" : "Diamond",
-        "p_image" : "https://birda.twic.pics/species/c71c9ee8-5a84-435a-936a-55bece6750b7/reference_images/Diamond_Firetail.jpg?twic=v1/inside=1536x1536" 
+        "id" : 1,
+        "name" : "Diamond",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogvJA1pBcHr8wrHB-HgQl_iBif1oi-XN2RA&s" 
     },
      {
-        "p_name" : "Green Goldian",
-        "p_image" : "https://www.shutterstock.com/image-photo/finches-7color-gouldian-finch-male-600nw-2334915659.jpg" 
-    }, {
-        "p_name" : "Yellow Goldian",
-        "p_image" : "https://azbirds.com/cdn/shop/products/783-1_300x300.jpg?v=1551504256" 
-    }, {
-        "p_name" : "Blue Goldian",
-        "p_image" : "https://phoolpanchi.com/birds/wp-content/uploads/2024/08/acadc6a2-801c-4f12-bd24-c0e88089e383.jpg" 
+        "id" : 2,
+        "name" : "Goldian",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4kQtUSUbhIk7t3sHBz_-lZFSbxUDtBQiQw&s" 
+    },
+     {
+        "id" : 3,
+        "name" : "Watch",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6c0Is6Xm24juQQfYFaVMRkh2I6yA98b_dw&s" 
+    },
+     {
+        "id" : 4,
+        "name" : "Silver Brand",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13CQwjhmR-YWrFXa1i9zRAlIBP1BDtUyKnw&s" 
     }
 ]
